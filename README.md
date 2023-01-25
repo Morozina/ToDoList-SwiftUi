@@ -1,1 +1,6 @@
-# ToDoList-SwiftUi
+# ToDoList-SwiftUi included UnitTests and works with white mode and also in dark mode
+<img src="https://github.com/Morozina/Weater-iOS-SWIFTUI-/blob/main/Weather/Assets.xcassets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-01-23%20at%2020.58.40.png"  width="200" height="400">
+<img src="https://github.com/Morozina/Weater-iOS-SWIFTUI-/blob/main/Weather/Assets.xcassets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-01-23%20at%2020.58.40.png"  width="200" height="400">
+<img src="https://github.com/Morozina/Weater-iOS-SWIFTUI-/blob/main/Weather/Assets.xcassets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-01-23%20at%2020.58.40.png"  width="200" height="400">
+<img src="https://github.com/Morozina/Weater-iOS-SWIFTUI-/blob/main/Weather/Assets.xcassets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-01-23%20at%2020.58.40.png"  width="200" height="400">
+<img src="https://github.com/Morozina/Weater-iOS-SWIFTUI-/blob/main/Weather/Assets.xcassets/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-01-23%20at%2020.58.40.png"  width="200" height="400">
